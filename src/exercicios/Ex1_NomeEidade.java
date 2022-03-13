@@ -1,4 +1,4 @@
-package br.com.dio.exercicios.src.Exercicios;
+package br.com.dio.exercicios.exercicios;
 
 import java.util.Scanner;
 
